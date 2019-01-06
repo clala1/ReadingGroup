@@ -16,10 +16,10 @@ If you want to be added to the mailing list (365-glamreadinggroup@groups.imperia
 * 421 - July - 4th, 11th, 18th, 25th
 
 
-| Date       | Presenter     |  Topic     |
+| Date       | Presenter     |  Topic     | Slides    |
 |-------------|--------|--------|
-| Dec 6 |  Pranava | [Deliberation Networks: Sequence Generation Beyond One-Pass Decoding]( https://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf)|
-| Dec 13 |  Chiraag | [A Visual Attention Grounding Neural Model for Multimodal Machine Translation]( http://aclweb.org/anthology/D18-1400)|
+| Dec 6 |  Pranava | [Deliberation Networks: Sequence Generation Beyond One-Pass Decoding]( https://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf)| |
+| Dec 13 |  Chiraag | [A Visual Attention Grounding Neural Model for Multimodal Machine Translation]( http://aclweb.org/anthology/D18-1400)|  |
 
 
 
